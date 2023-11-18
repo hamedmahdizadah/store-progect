@@ -1,0 +1,207 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: hsl(216, 12%, 8%);
+}
+div.sub{
+    width: 380px;
+    height: auto;
+    border-radius: 15px;
+    background-color: hsl(213, 19%, 18%);
+
+}
+div.tex{
+    padding: 30px;
+    font-family:'Overpass', sans-serif;
+
+}
+div.im{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    background-color: hsl(216, 12%, 54%);
+}
+h1{
+    padding: 12px 0 0;
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+}
+p.first{
+    
+    line-height: 25px;
+    padding: 12px 0;
+    font-size: 15px;
+    color: hsl(217, 12%, 63%);
+    font-weight: 400;
+
+}
+div.one{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+    height: auto;
+    margin-right: 15px;
+    background-color: hsl(216, 12%, 54%);
+    border-radius: 100%;
+    width: 28px;
+    height: 28px;
+}
+div.tow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+    height: auto;
+    margin-right: 15px;
+    background-color: hsl(216, 12%, 54%);
+    border-radius: 100%;
+    width: 28px;
+    height: 28px;
+}
+div.three{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+    height: auto;
+    margin-right: 15px;
+    background-color: hsl(216, 12%, 54%);
+    border-radius: 100%;
+    width: 28px;
+    height: 28px;
+}
+div.four{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+    height: auto;
+    margin-right: 15px;
+    background-color: hsl(216, 12%, 54%);
+    border-radius: 100%;
+    width: 28px;
+    height: 28px;
+}
+div.five{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+    height: auto;
+    margin-right: 15px;
+    background-color: hsl(216, 12%, 54%);
+    border-radius: 100%;
+    width: 28px;
+    height: 28px;
+}
+div.circal{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+button{
+    text-transform: uppercase;
+    font-size: 15px; font-weight: 700;
+    margin: 12px 0 0 0;
+    width: 100%;
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+    color: white;
+    background-color: hsl(25, 97%, 53%);
+    margin: 15px 0 0 0;
+    
+
+}
+div.one:hover{
+    background-color:hsl(25, 97%, 53%)
+    ;
+    color: black;
+}
+div.tow:hover{
+    background-color:hsl(25, 97%, 53%)
+    ;
+    color: black;
+}
+div.three:hover{
+    background-color:hsl(25, 97%, 53%);
+    color: black;
+}
+div.four:hover{
+    background-color:hsl(25, 97%, 53%);
+    color: black;
+}
+div.five:hover{
+    background-color:hsl(25, 97%, 53%);
+    color: black;
+}
+button:hover{
+    background-color: hsl(0, 0%, 100%)
+    ;
+    color: hsl(25, 97%, 53%);
+}
+div.tex2{
+    padding: 20px;
+    font-family: 'Overpass', sans-serif;
+    width: 335.5px;
+    background-color: hsl(213, 19%, 18%) ;
+    border-radius: 15px;
+}
+div.pict{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1.h2{
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+    color: hsl(25deg 68% 39.93%);
+
+}
+div.selected{
+    margin-top: 22px;
+    width: 166px;
+    margin-left: auto;
+    border-radius: 14px;
+    margin-right: auto;
+    background-color:  hsl(213deg 17.25% 20.94%);
+}
+div.title{
+    margin-bottom: 16px;
+    font-weight: 700;
+    font-size: 21px;
+    color:  hsl(0, 0%, 100%);
+
+}
+p.Thank{
+    font-weight: 400;
+    font-size: 15px;
+    color:  hsl(217, 12%, 63%);
+   
+}
+div.last{
+    text-align:center;
+    margin-top: 22px;
+}
+div.center{
+    margin: 12px;
+}
